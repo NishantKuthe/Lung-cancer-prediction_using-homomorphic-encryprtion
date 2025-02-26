@@ -1,1 +1,1 @@
-# Lung-cancer-prediction_using-homomorphic-encryprtion
+# Homomorphic-Image_Encryption
